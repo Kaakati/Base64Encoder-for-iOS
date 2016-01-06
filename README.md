@@ -15,3 +15,7 @@ Convert to Base64 on iOS
     +(NSString *)encodeBase64WithString:(NSString *)strData;
     +(NSString *)encodeBase64WithData:(NSData *)objData;
     +(NSData *)base64DataFromString: (NSString *)string;
+
+
+
+[Mohamad Kaakati](http://www.kaakati.me)
