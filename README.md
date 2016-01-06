@@ -1,8 +1,10 @@
-## Base64Encoder for iOS [Objetice-C & Swift 2.0]
+## Base64Encoder for iOS [Objetive-C & Swift 2.0]
 Convert to Base64 on iOS
 
+
 #### Usage on Swift 2.0 for UIImage
-After you make the bridging-header on swift and #import "Base64Convertor.h"
+<b>How to Convert UIImage to Base64 on Swift 2.0?</b>
+<p>After you make the bridging-header on swift and #import "Base64Convertor.h"</p>
 
     let theImage : UIImage = UIImage(named:"image-name")
     var imageData = UIImageJPEGRepresentation(theImage, 1)
